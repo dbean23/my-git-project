@@ -1,5 +1,5 @@
-# my-git-project
-# my-git-project
-# my-git-project
+# This is my Git Project
+
+> My code for the Git Project
 # my-git-project
 # my-git-project
